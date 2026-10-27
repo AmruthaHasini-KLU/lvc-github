@@ -1,0 +1,43 @@
+			         LVC                                       
+ 														     Monday
+26-10-2026
+
+1. git --version - Check the installed Git version.
+
+2. git init - Initialize a new Git repository.
+
+3. git clone <url> - Copy a remote repository to your local system.
+
+4. git config --global user.name "Your Name" - Set the Git username globally.
+
+5. git config --global user.email "your@email.com" - Set the Git email globally.
+
+6. git config --local user.name "Your Name" - Set the Git username for the current repository.
+
+7. git config --local user.email "your@email.com" - Set the Git email for the current repository.
+
+8. git config --system user.name "Your Name" - Set the Git username system-wide for all users on the computer. (May require administrator permissions.)
+
+9. git config --system user.email "your@email.com" - Set the Git email system-wide for all users on the computer. (May require administrator permissions.)
+
+10. git config --list - Display Git configuration settings.
+
+11. git config --global --list - Display global Git configuration settings.
+
+12. git config --local --list - Display local Git configuration settings.
+
+13. git config --system --list - Display system-wide Git configuration settings.
+
+14. git status - Check the status of files in the repository.
+
+15. git add . - Stage changes for the next commit.
+
+16. git commit -m "message" - Save staged changes as a commit.
+
+17. git fetch - Download updates from a remote repository without merging them.
+
+18. git pull - Fetch and integrate changes from a remote repository.
+
+19. git push -u origin - Upload local commits to a remote repository.
+
+20. git log --oneline - Display commit history in a compact format.
